@@ -7,7 +7,20 @@
 	"item": [
 		{
 			"name": "Test request",
-			"_postman_id": "82db56e2-fd53-4f36-a7b8-9342ff0ec99f",
+			"id": "82db56e2-fd53-4f36-a7b8-9342ff0ec99f",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "google.com"
+			},
+			"response": []
+		},
+		{
+			"name": "What will happen?",
+			"id": "b27beff8-dfbe-4ca9-99fb-d310ff5070c0",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
